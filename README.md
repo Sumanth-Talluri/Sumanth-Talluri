@@ -28,7 +28,6 @@
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
-<br>
 
 ### Languages and Tools: 
 
@@ -60,16 +59,29 @@
 
 
 
-<!--
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumanth-Talluri&show_icons=true&hide_border=true)-->
+<!-- stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=dark)-->
 ![Sumanth's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth-Talluri&show_icons=true&hide_border=true")
 
----
-<!--
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" /> -->
+<!-- repos
+<a href="https://github.com/Sumanth-Talluri/Readers-Cabin">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanth-Talluri&repo=Readers-Cabin&theme=dark" />
+</a>
+<a href="https://github.com/Sumanth-Talluri/JPMorgan-Chase-Virtual-Internship">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanth-Talluri&repo=JPMorgan-Chase-Virtual-Internship&theme=dark" />
+</a>
+<a href="https://github.com/Sumanth-Talluri/Python-for-Everybody-Specialization">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanth-Talluri&repo=Python-for-Everybody-Specialization&theme=dark" />
+</a>
+-->
 
-<!--[website]: https://codeSTACKr.com-->
+<div align="center">
+<h3 align="center">Show some ❤️ by starring some of the repositories!</h3>
+</div>
+
+
+<!--[website]: -->
 [twitter]: https://twitter.com/sumanth_98?s=09
-<!--[youtube]: https://youtube.com/codeSTACKr-->
+<!--[youtube]: https://www.youtube.com/channel/UC40R8Rvwjhu08Z0MFffNfsg-->
 [instagram]: https://instagram.com/the.cs.geek?igshid=1mamru7aa53b2
 [linkedin]: https://www.linkedin.com/in/sai-sumanth-talluri-3b7811141
