@@ -4,7 +4,8 @@
 </p>
 
 <p align="center">
-    <img align="center" alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Sumanth-Talluri.Sumanth-Talluri" />
+    <!--<img align="center" alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Sumanth-Talluri.Sumanth-Talluri" />-->
+    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Sumanth-Talluri" />
 </p>
 <p align="center">
   <a href="">  <img align="center" alt="visitors" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>&nbsp; &nbsp;
