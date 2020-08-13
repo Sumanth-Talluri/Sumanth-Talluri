@@ -66,7 +66,7 @@
 </p>
 
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=dark">
+  <img align="center" src="https://github-contribution-stats.vercel.app/api/?username=Sumanth-Talluri)">
 </p>
 
 
@@ -85,6 +85,14 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanth-Talluri&repo=Python-for-Everybody-Specialization&theme=dark" />
 </a>
 -->
+
+<br>
+
+📊 **This week I spent my time on**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<br>
 
 <div align="center">
 <h3 align="center">Show some ❤️ by starring some of the repositories!</h3>
