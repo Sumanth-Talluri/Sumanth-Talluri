@@ -19,7 +19,7 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I am a System Engineer Specialist at Infosys
+### I am a Systems Engineer Specialist at Infosys
 - 🔭 I’m currently working on my Portfolio Website :grin:
 - 🌱 I’m currently learning MERN Stack Development.
 - 👯 I’m looking to collaborate with other Developers :wink:
@@ -27,7 +27,7 @@
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 - 🧗 I try to: Go beyond and push the bounds
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I love connecting with different people :raised_hands:
 <br>
 
 ### Languages and Tools: 
@@ -60,8 +60,8 @@
 
 
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumanth-Talluri&show_icons=true&hide_border=true)
+<!--
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumanth-Talluri&show_icons=true&hide_border=true)-->
 ![Sumanth's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth-Talluri&show_icons=true&hide_border=true")
 
 ---
