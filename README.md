@@ -4,7 +4,6 @@
 </p>
 
 <p align="center">
-    <!--<img align="center" alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Sumanth-Talluri.Sumanth-Talluri" />-->
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Sumanth-Talluri" />
 </p>
 
@@ -68,9 +67,8 @@
 <br>
 
 <p align='center'>
-  <img align="center" src="https://github-contribution-stats.vercel.app/api/?username=Sumanth-Talluri)">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=radical">
 </p>
-
 
 <!-- stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=dark)
@@ -97,8 +95,10 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
+<br>
+
 <div align="center">
-<h3 align="center">Show some ❤️ by starring some of the repositories!</h3>
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 </div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
 
 <!--[website]: -->
