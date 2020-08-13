@@ -97,11 +97,6 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-<br>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 <div align="center">
 <h3 align="center">Show some ❤️ by starring some of the repositories!</h3>
 </div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
