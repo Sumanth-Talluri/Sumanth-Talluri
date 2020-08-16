@@ -60,6 +60,9 @@
 <br>
 <br>
 
+<details>
+  <summary>:zap: Github Stats</summary>
+
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sumanth-Talluri&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Lakshya's Github Stats">
 </p>
@@ -69,6 +72,9 @@
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=radical">
 </p>
+
+</details>
+
 
 <!-- stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=dark)
@@ -87,6 +93,16 @@
 -->
 
 <br>
+
+<details>
+  <summary>:zap: Recent Github Activity</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+
+<hr>
 
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
