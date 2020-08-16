@@ -60,20 +60,26 @@
 <br>
 <br>
 
+<!--
 <details>
   <summary>:zap: Github Stats</summary>
-
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sumanth-Talluri&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Lakshya's Github Stats">
 </p>
-
 <br>
-
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=radical">
 </p>
+</details> -->
 
-</details>
+<hr>
+
+### :zap: Github Stats
+
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sumanth-Talluri&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Lakshya's Github Stats" width="60%">
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=radical" width="37%">
+
 
 
 <!-- stats
@@ -92,10 +98,9 @@
 </a>
 -->
 
-<br>
+<hr>
 
-<details>
-  <summary>:zap: Recent Github Activity</summary>
+### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#27](https://github.com//elangosundar/awesome-README-templates/pull/27) in [elangosundar/awesome-README-templates](https://github.com//elangosundar/awesome-README-templates)
@@ -103,11 +108,9 @@
 3. 💪 Opened PR [#62](https://github.com//Asabeneh/30-Days-Of-Python/pull/62) in [Asabeneh/30-Days-Of-Python](https://github.com//Asabeneh/30-Days-Of-Python)
 <!--END_SECTION:activity-->
 
-</details>
-
 <hr>
 
-📊 **This week I spent my time on**
+### 📊 This week I spent my time on
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
