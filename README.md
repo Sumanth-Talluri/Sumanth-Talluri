@@ -72,7 +72,6 @@
 </p>
 </details> -->
 
-<hr>
 
 ### :zap: Github Stats
 
@@ -98,7 +97,7 @@
 </a>
 -->
 
-<hr>
+<br>
 
 ### :zap: Recent Github Activity
   
@@ -108,7 +107,7 @@
 3. 💪 Opened PR [#62](https://github.com//Asabeneh/30-Days-Of-Python/pull/62) in [Asabeneh/30-Days-Of-Python](https://github.com//Asabeneh/30-Days-Of-Python)
 <!--END_SECTION:activity-->
 
-<hr>
+<br>
 
 ### 📊 This week I spent my time on
 <!--START_SECTION:waka-->
