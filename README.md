@@ -98,6 +98,9 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#27](https://github.com//elangosundar/awesome-README-templates/pull/27) in [elangosundar/awesome-README-templates](https://github.com//elangosundar/awesome-README-templates)
+2. 💪 Opened PR [#183](https://github.com//rishz/make-a-pull-request/pull/183) in [rishz/make-a-pull-request](https://github.com//rishz/make-a-pull-request)
+3. 💪 Opened PR [#62](https://github.com//Asabeneh/30-Days-Of-Python/pull/62) in [Asabeneh/30-Days-Of-Python](https://github.com//Asabeneh/30-Days-Of-Python)
 <!--END_SECTION:activity-->
 
 </details>
