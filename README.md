@@ -102,9 +102,9 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#63](https://github.com//Asabeneh/30-Days-Of-Python/pull/63) in [Asabeneh/30-Days-Of-Python](https://github.com//Asabeneh/30-Days-Of-Python)
-2. 💪 Opened PR [#27](https://github.com//elangosundar/awesome-README-templates/pull/27) in [elangosundar/awesome-README-templates](https://github.com//elangosundar/awesome-README-templates)
-3. 💪 Opened PR [#183](https://github.com//rishz/make-a-pull-request/pull/183) in [rishz/make-a-pull-request](https://github.com//rishz/make-a-pull-request)
+1. 💪 Opened PR [#64](https://github.com//Asabeneh/30-Days-Of-Python/pull/64) in [Asabeneh/30-Days-Of-Python](https://github.com//Asabeneh/30-Days-Of-Python)
+2. 💪 Opened PR [#63](https://github.com//Asabeneh/30-Days-Of-Python/pull/63) in [Asabeneh/30-Days-Of-Python](https://github.com//Asabeneh/30-Days-Of-Python)
+3. 💪 Opened PR [#27](https://github.com//elangosundar/awesome-README-templates/pull/27) in [elangosundar/awesome-README-templates](https://github.com//elangosundar/awesome-README-templates)
 <!--END_SECTION:activity-->
 
 <br>
