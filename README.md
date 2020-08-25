@@ -102,9 +102,9 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#68](https://github.com//Asabeneh/30-Days-Of-Python/pull/68) in [Asabeneh/30-Days-Of-Python](https://github.com//Asabeneh/30-Days-Of-Python)
-2. 💪 Opened PR [#67](https://github.com//Asabeneh/30-Days-Of-Python/pull/67) in [Asabeneh/30-Days-Of-Python](https://github.com//Asabeneh/30-Days-Of-Python)
-3. 💪 Opened PR [#66](https://github.com//Asabeneh/30-Days-Of-Python/pull/66) in [Asabeneh/30-Days-Of-Python](https://github.com//Asabeneh/30-Days-Of-Python)
+1. 💪 Opened PR [#69](https://github.com//Asabeneh/30-Days-Of-Python/pull/69) in [Asabeneh/30-Days-Of-Python](https://github.com//Asabeneh/30-Days-Of-Python)
+2. 💪 Opened PR [#68](https://github.com//Asabeneh/30-Days-Of-Python/pull/68) in [Asabeneh/30-Days-Of-Python](https://github.com//Asabeneh/30-Days-Of-Python)
+3. 💪 Opened PR [#67](https://github.com//Asabeneh/30-Days-Of-Python/pull/67) in [Asabeneh/30-Days-Of-Python](https://github.com//Asabeneh/30-Days-Of-Python)
 <!--END_SECTION:activity-->
 
 <br>
