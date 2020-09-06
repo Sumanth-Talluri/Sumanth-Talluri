@@ -102,9 +102,9 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com//codeSTACKr/goal-manager-react/pull/1) in [codeSTACKr/goal-manager-react](https://github.com//codeSTACKr/goal-manager-react)
-2. 💪 Opened PR [#74](https://github.com//Asabeneh/30-Days-Of-Python/pull/74) in [Asabeneh/30-Days-Of-Python](https://github.com//Asabeneh/30-Days-Of-Python)
-3. 💪 Opened PR [#72](https://github.com//Asabeneh/30-Days-Of-Python/pull/72) in [Asabeneh/30-Days-Of-Python](https://github.com//Asabeneh/30-Days-Of-Python)
+1. 💪 Opened PR [#76](https://github.com//OpenSouceCode/Hacktoberfest2020/pull/76) in [OpenSouceCode/Hacktoberfest2020](https://github.com//OpenSouceCode/Hacktoberfest2020)
+2. 💪 Opened PR [#1](https://github.com//codeSTACKr/goal-manager-react/pull/1) in [codeSTACKr/goal-manager-react](https://github.com//codeSTACKr/goal-manager-react)
+3. 💪 Opened PR [#74](https://github.com//Asabeneh/30-Days-Of-Python/pull/74) in [Asabeneh/30-Days-Of-Python](https://github.com//Asabeneh/30-Days-Of-Python)
 <!--END_SECTION:activity-->
 
 <br>
