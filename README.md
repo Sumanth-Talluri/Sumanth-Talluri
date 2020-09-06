@@ -110,23 +110,14 @@
 <br>
 
 ### 📊 This week I spent my time on
-<!--START_SECTION_PROFILE_VIEWS:readme-info-->
-**✨ 59 people were here!**
 
-
-<!--END_SECTION_PROFILE_VIEWS:readme-info-->
+<br>
 
 <!--START_SECTION_LINES_OF_CODE:readme-info-->
 **From Hello World I have written 11841 Lines of Code ✍️**
 
 
 <!--END_SECTION_LINES_OF_CODE:readme-info-->
-
-<!--START_CONTRIBUTIONS:readme-info-->
-**🏆 323 Contributions in year 2020**
-
-
-<!--END_CONTRIBUTIONS:readme-info-->
 
 <!--START_SECTION_DAILY_COMMIT:readme-info-->
 **I'm an early 🐤** 
