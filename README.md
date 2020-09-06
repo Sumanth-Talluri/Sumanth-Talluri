@@ -3,6 +3,10 @@
   <h1 align="center"><b>Hello there, I'm Sumanth 👋</b></h1>
 </p>
 
+<p>
+  <h4 align="center"><b>Talk is cheap. Show me the code</b></h4>
+</p>
+
 <p align="center">
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Sumanth-Talluri" />
 </p>
@@ -168,4 +172,4 @@
 [twitter]: https://twitter.com/sumanth_98?s=09
 <!--[youtube]: https://www.youtube.com/channel/UC40R8Rvwjhu08Z0MFffNfsg-->
 [instagram]: https://instagram.com/the.cs.geek?igshid=1mamru7aa53b2
-[linkedin]: https://www.linkedin.com/in/sai-sumanth-talluri-3b7811141
+[linkedin]: https://www.linkedin.com/in/tv-sai-sumanth-3b7811141/
