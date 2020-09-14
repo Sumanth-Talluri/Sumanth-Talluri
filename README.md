@@ -113,7 +113,7 @@
 
 <br>
 
-### 📊 This week I spent my time on
+### 📊 &nbsp; STATS
 
 <!--START_SECTION_LINES_OF_CODE:readme-info-->
 **From Hello World I have written 1.4 million Lines of Code ✍️**
