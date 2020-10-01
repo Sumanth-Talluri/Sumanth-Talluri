@@ -106,9 +106,9 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#363](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/363) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-2. 💪 Opened PR [#423](https://github.com/OpenSourceTogether/Hacktoberfest-2020/pull/423) in [OpenSourceTogether/Hacktoberfest-2020](https://github.com/OpenSourceTogether/Hacktoberfest-2020)
-3. ❗️ Opened issue [#172](https://github.com/EddieJaoudeCommunity/support/issues/172) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+1. 💪 Opened PR [#37](https://github.com/elangosundar/awesome-README-templates/pull/37) in [elangosundar/awesome-README-templates](https://github.com/elangosundar/awesome-README-templates)
+2. 💪 Opened PR [#116](https://github.com/coderjojo/creative-profile-readme/pull/116) in [coderjojo/creative-profile-readme](https://github.com/coderjojo/creative-profile-readme)
+3. 💪 Opened PR [#363](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/363) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 <!--END_SECTION:activity-->
 
 <br>
