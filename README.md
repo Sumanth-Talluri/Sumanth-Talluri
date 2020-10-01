@@ -106,9 +106,9 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#37](https://github.com/elangosundar/awesome-README-templates/pull/37) in [elangosundar/awesome-README-templates](https://github.com/elangosundar/awesome-README-templates)
-2. 💪 Opened PR [#116](https://github.com/coderjojo/creative-profile-readme/pull/116) in [coderjojo/creative-profile-readme](https://github.com/coderjojo/creative-profile-readme)
-3. 💪 Opened PR [#363](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/363) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+1. 🗣 Commented on [#143](https://github.com/dwyl/start-here/issues/143) in [dwyl/start-here](https://github.com/dwyl/start-here)
+2. 💪 Opened PR [#37](https://github.com/elangosundar/awesome-README-templates/pull/37) in [elangosundar/awesome-README-templates](https://github.com/elangosundar/awesome-README-templates)
+3. 💪 Opened PR [#116](https://github.com/coderjojo/creative-profile-readme/pull/116) in [coderjojo/creative-profile-readme](https://github.com/coderjojo/creative-profile-readme)
 <!--END_SECTION:activity-->
 
 <br>
