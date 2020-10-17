@@ -106,9 +106,9 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#143](https://github.com/dwyl/start-here/issues/143) in [dwyl/start-here](https://github.com/dwyl/start-here)
-2. 💪 Opened PR [#37](https://github.com/elangosundar/awesome-README-templates/pull/37) in [elangosundar/awesome-README-templates](https://github.com/elangosundar/awesome-README-templates)
-3. 💪 Opened PR [#116](https://github.com/coderjojo/creative-profile-readme/pull/116) in [coderjojo/creative-profile-readme](https://github.com/coderjojo/creative-profile-readme)
+1. 💪 Opened PR [#1](https://github.com/t-satwik/Python-programs/pull/1) in [t-satwik/Python-programs](https://github.com/t-satwik/Python-programs)
+2. 🗣 Commented on [#143](https://github.com/dwyl/start-here/issues/143) in [dwyl/start-here](https://github.com/dwyl/start-here)
+3. 💪 Opened PR [#37](https://github.com/elangosundar/awesome-README-templates/pull/37) in [elangosundar/awesome-README-templates](https://github.com/elangosundar/awesome-README-templates)
 <!--END_SECTION:activity-->
 
 <br>
