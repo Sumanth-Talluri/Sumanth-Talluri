@@ -106,7 +106,7 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/codeSTACKr/goal-manager-react/pull/1) in [codeSTACKr/goal-manager-react](https://github.com/codeSTACKr/goal-manager-react)
+1. 💪 Opened PR [#9495](https://github.com/education/GitHubGraduation-2021/pull/9495) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
 2. 💪 Opened PR [#1](https://github.com/t-satwik/Python-programs/pull/1) in [t-satwik/Python-programs](https://github.com/t-satwik/Python-programs)
 3. 🗣 Commented on [#143](https://github.com/dwyl/start-here/issues/143) in [dwyl/start-here](https://github.com/dwyl/start-here)
 <!--END_SECTION:activity-->
