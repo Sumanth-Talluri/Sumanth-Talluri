@@ -116,7 +116,7 @@
 ### 📊 &nbsp; STATS
 
 <!--START_SECTION_LINES_OF_CODE:readme-info-->
-**From Hello World I have written 667100 Lines of Code ✍️**
+**From Hello World I have written 662925 Lines of Code ✍️**
 
 
 <!--END_SECTION_LINES_OF_CODE:readme-info-->
