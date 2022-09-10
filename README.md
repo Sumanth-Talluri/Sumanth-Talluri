@@ -24,9 +24,9 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I am a Digital Specialist Engineer at Infosys
+### I am a grad student at ASU
 - 🔭 I’m currently working on my Portfolio Website :grin:
-- 🌱 I’m currently learning Data Science.
+- 🌱 I’m currently learning Data Visualization.
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🥅 2022 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
